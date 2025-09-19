@@ -6,6 +6,8 @@
 
 A comprehensive PowerShell tool for automating Active Directory backups with multiple recovery options. This tool creates complete, restorable backups of your Active Directory environment including system state, SYSVOL, AD objects, and Group Policies, and it's completely free!
 
+![](https://github.com/SaherMuhamed/active-directory-backup-tool/blob/main/images/AD-backup-diagram.png)
+
 ## 🚀 Features
 
 ### Complete Backup Coverage
